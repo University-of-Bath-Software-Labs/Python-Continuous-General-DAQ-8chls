@@ -27,6 +27,7 @@ https://github.com/University-of-Bath-Software-Labs/LabVIEW-Continuous-General-D
 ## Requirements
 
 - Windows PC
+- Valid Python install
 - A compatible NI DAQ device (e.g., NI USB‑6009 / similar)
 - NI software installed:
   - NI‑DAQmx  
