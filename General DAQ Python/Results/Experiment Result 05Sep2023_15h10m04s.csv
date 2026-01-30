@@ -1,0 +1,5 @@
+Sample Rate
+2
+Channel Index,Channel Name,Scale,Offset
+0,er,2.0,1.0
+Time(s),Chl 0: er

@@ -1,0 +1,5 @@
+Sample Rate
+4
+Channel Index,Channel Name,Scale,Offset
+0,df,3.0,1.0
+Time(s),Chl 0: df

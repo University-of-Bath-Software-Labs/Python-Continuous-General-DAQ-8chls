@@ -1,0 +1,5 @@
+Sample Rate
+10
+Channel Index,Channel Name,Scale,Offset
+0,fdd,1.0,0.0
+Time(s),Chl 0: fdd
