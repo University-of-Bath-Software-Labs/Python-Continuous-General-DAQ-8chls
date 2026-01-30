@@ -7,7 +7,9 @@ Suitable for most general-purpose DAQ needs.
 
 ---
 
-## Related project (LabVIEW version)
+## Related projects
+If you prefer an executable (.exe) version of this project, as opposed to the source code alone, see:  
+https://github.com/University-of-Bath-Software-Labs/Python-Continuous-General-DAQ-8chls-EXE 
 
 If you prefer LabVIEW (or need the 16‑channel LabVIEW variant), see:  
 https://github.com/University-of-Bath-Software-Labs/LabVIEW-Continuous-General-DAQ-16chls
